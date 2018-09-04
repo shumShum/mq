@@ -28,7 +28,7 @@ defmodule MQ.StackTest do
   end
 
   test "persistant stack functions" do
-    stack = Stack.init_stack()
+    stack = Stack.init()
 
     stack =
       stack

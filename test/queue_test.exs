@@ -1,4 +1,4 @@
-defmodule MQ.StackTest do
+defmodule MQ.QueueTest do
   use ExUnit.Case
 
   alias MQ.Queue
